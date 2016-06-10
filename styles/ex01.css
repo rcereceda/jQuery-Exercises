@@ -16,6 +16,12 @@
     cursor: pointer;
 }
 
+.vancouver {
+    background-image: url("../images/vancouver1.jpg");
+    height: 100%;
+    width: 100%;
+}
+
 .words {
     color: #fff;
     text-align: center;
